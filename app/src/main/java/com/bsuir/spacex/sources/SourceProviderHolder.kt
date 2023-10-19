@@ -5,7 +5,6 @@ import com.bsuir.spacex.sources.backend.RetrofitConfig
 import com.bsuir.spacex.sources.backend.RetrofitSourcesProvider
 import com.bsuir.spacex.sources.backend.SourcesProvider
 import com.bsuir.spacex.Constants
-import com.bsuir.spacex.Singletons
 import com.squareup.moshi.Moshi
 import com.squareup.moshi.adapters.Rfc3339DateJsonAdapter
 import com.squareup.moshi.kotlin.reflect.KotlinJsonAdapterFactory
